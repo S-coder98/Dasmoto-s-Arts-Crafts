@@ -32,3 +32,9 @@ h2 {
 .paint h2 {
   background-color: skyblue;
 }
+
+strong {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
