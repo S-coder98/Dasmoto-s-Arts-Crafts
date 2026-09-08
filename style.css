@@ -1,7 +1,7 @@
 .header {
   background-image: url("./Images/pattern.jpg");
   background-position: center;
-  background-size: 1000%;
+  background-size: 800%;
 }
 
 .header h1 {
@@ -12,4 +12,23 @@
   width: 100%;
   margin: 0 auto;
   text-align: center;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+.frames h2 {
+  background-color: lightcoral;
+}
+
+.paint h2 {
+  background-color: skyblue;
 }
