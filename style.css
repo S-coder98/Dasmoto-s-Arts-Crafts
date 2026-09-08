@@ -1,7 +1,7 @@
 .header {
   background-image: url("./Images/pattern.jpg");
   background-position: center;
-  background-size: cover;
+  background-size: 400%;
 }
 
 .header h1 {
