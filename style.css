@@ -1,1 +1,8 @@
-
+head {
+  background-image: "./Images/pattern.jpg";
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
