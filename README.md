@@ -23,4 +23,4 @@ HTML
 CSS
 
 ## Live Link
-[https://s-coder98.github.io/fashionblog/](https://s-coder98.github.io/Dasmoto-s-Arts-Crafts/)
+https://s-coder98.github.io/Dasmoto-s-Arts-Crafts/ 
