@@ -1,5 +1,5 @@
 .header {
-  background-image: "./Images/pattern.jpg";
+  background-image: url("./Images/pattern.jpg");
   background-position: center;
   background-size: cover;
 }
